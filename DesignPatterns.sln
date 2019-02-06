@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "Creational Design Patterns\FactoryMethod\FactoryMethod.csproj", "{BE6D88AE-73B1-4428-B801-FB1CFC955802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Creational Design Patterns\Singleton\Singleton.csproj", "{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiton", "Creational Design Patterns\Multiton\Multiton.csproj", "{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Creational Design Patterns\AbstractFactory\AbstractFactory.csproj", "{CD04D4B1-2064-4EE5-860C-21EE26C0C613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Creational Design Patterns\Builder\Builder.csproj", "{784EB6A2-5AF9-4DC9-9260-D977FF45305F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Creational Design Patterns\Prototype\Prototype.csproj", "{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural Design Patterns", "Structural Design Patterns", "{5BA8AB48-5505-48EB-9855-A15D3FCE6B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Structural Design Patterns\Adapter\Adapter.csproj", "{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational Design Patterns", "Creational Design Patterns", "{38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural Design Patterns\Bridge\Bridge.csproj", "{3A8D724E-9AB7-4206-A94F-8555BC5526A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Structural Design Patterns\Composite\Composite.csproj", "{99998129-A1D8-49FC-AEF3-5BD4A8B001A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Structural Design Patterns\Decorator\Decorator.csproj", "{699737B1-2218-421A-8F17-E4DD0C177110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE6D88AE-73B1-4428-B801-FB1CFC955802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6D88AE-73B1-4428-B801-FB1CFC955802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6D88AE-73B1-4428-B801-FB1CFC955802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6D88AE-73B1-4428-B801-FB1CFC955802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD04D4B1-2064-4EE5-860C-21EE26C0C613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD04D4B1-2064-4EE5-860C-21EE26C0C613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD04D4B1-2064-4EE5-860C-21EE26C0C613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD04D4B1-2064-4EE5-860C-21EE26C0C613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784EB6A2-5AF9-4DC9-9260-D977FF45305F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784EB6A2-5AF9-4DC9-9260-D977FF45305F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784EB6A2-5AF9-4DC9-9260-D977FF45305F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784EB6A2-5AF9-4DC9-9260-D977FF45305F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8D724E-9AB7-4206-A94F-8555BC5526A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8D724E-9AB7-4206-A94F-8555BC5526A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8D724E-9AB7-4206-A94F-8555BC5526A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8D724E-9AB7-4206-A94F-8555BC5526A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99998129-A1D8-49FC-AEF3-5BD4A8B001A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99998129-A1D8-49FC-AEF3-5BD4A8B001A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99998129-A1D8-49FC-AEF3-5BD4A8B001A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99998129-A1D8-49FC-AEF3-5BD4A8B001A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699737B1-2218-421A-8F17-E4DD0C177110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699737B1-2218-421A-8F17-E4DD0C177110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699737B1-2218-421A-8F17-E4DD0C177110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699737B1-2218-421A-8F17-E4DD0C177110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE6D88AE-73B1-4428-B801-FB1CFC955802} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{E7762B8A-7ABF-4D0F-A8BB-54756F5C6F20} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{DBF6CFA2-BD1B-4180-B9D7-15C5BE1056DB} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{CD04D4B1-2064-4EE5-860C-21EE26C0C613} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{784EB6A2-5AF9-4DC9-9260-D977FF45305F} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{2B49E67B-897C-4A31-B19C-4E8C2FFEBB6C} = {38B7BCE8-E551-4EA3-8BE6-7F82457D13B7}
+		{4FFF3961-CB1F-4DC1-A7D6-9757ABE00CEA} = {5BA8AB48-5505-48EB-9855-A15D3FCE6B8D}
+		{3A8D724E-9AB7-4206-A94F-8555BC5526A1} = {5BA8AB48-5505-48EB-9855-A15D3FCE6B8D}
+		{99998129-A1D8-49FC-AEF3-5BD4A8B001A4} = {5BA8AB48-5505-48EB-9855-A15D3FCE6B8D}
+		{699737B1-2218-421A-8F17-E4DD0C177110} = {5BA8AB48-5505-48EB-9855-A15D3FCE6B8D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11859975-1A16-4DFB-82D2-FC0AA95FEDFA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://gaebster.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Creational\u0020Design\u0020Patterns\\FactoryMethod\\FactoryMethod.csproj
+		SccProjectTopLevelParentUniqueName1 = DesignPatterns.sln
+		SccProjectName1 = Creational\u0020Design\u0020Patterns/FactoryMethod
+		SccLocalPath1 = Creational\u0020Design\u0020Patterns\\FactoryMethod
+		SccProjectUniqueName2 = Creational\u0020Design\u0020Patterns\\Singleton\\Singleton.csproj
+		SccProjectTopLevelParentUniqueName2 = DesignPatterns.sln
+		SccProjectName2 = Creational\u0020Design\u0020Patterns/Singleton
+		SccLocalPath2 = Creational\u0020Design\u0020Patterns\\Singleton
+		SccProjectUniqueName3 = Creational\u0020Design\u0020Patterns\\Multiton\\Multiton.csproj
+		SccProjectTopLevelParentUniqueName3 = DesignPatterns.sln
+		SccProjectName3 = Creational\u0020Design\u0020Patterns/Multiton
+		SccLocalPath3 = Creational\u0020Design\u0020Patterns\\Multiton
+		SccProjectUniqueName4 = Creational\u0020Design\u0020Patterns\\AbstractFactory\\AbstractFactory.csproj
+		SccProjectTopLevelParentUniqueName4 = DesignPatterns.sln
+		SccProjectName4 = Creational\u0020Design\u0020Patterns/AbstractFactory
+		SccLocalPath4 = Creational\u0020Design\u0020Patterns\\AbstractFactory
+		SccProjectUniqueName5 = Creational\u0020Design\u0020Patterns\\Builder\\Builder.csproj
+		SccProjectTopLevelParentUniqueName5 = DesignPatterns.sln
+		SccProjectName5 = Creational\u0020Design\u0020Patterns/Builder
+		SccLocalPath5 = Creational\u0020Design\u0020Patterns\\Builder
+		SccProjectUniqueName6 = Creational\u0020Design\u0020Patterns\\Prototype\\Prototype.csproj
+		SccProjectTopLevelParentUniqueName6 = DesignPatterns.sln
+		SccProjectName6 = Creational\u0020Design\u0020Patterns/Prototype
+		SccLocalPath6 = Creational\u0020Design\u0020Patterns\\Prototype
+		SccProjectUniqueName7 = Structural\u0020Design\u0020Patterns\\Adapter\\Adapter.csproj
+		SccProjectTopLevelParentUniqueName7 = DesignPatterns.sln
+		SccProjectName7 = Structural\u0020Design\u0020Patterns/Adapter
+		SccLocalPath7 = Structural\u0020Design\u0020Patterns\\Adapter
+		SccProjectUniqueName8 = Structural\u0020Design\u0020Patterns\\Bridge\\Bridge.csproj
+		SccProjectTopLevelParentUniqueName8 = DesignPatterns.sln
+		SccProjectName8 = Structural\u0020Design\u0020Patterns/Bridge
+		SccLocalPath8 = Structural\u0020Design\u0020Patterns\\Bridge
+		SccProjectUniqueName9 = Structural\u0020Design\u0020Patterns\\Composite\\Composite.csproj
+		SccProjectTopLevelParentUniqueName9 = DesignPatterns.sln
+		SccProjectName9 = Structural\u0020Design\u0020Patterns/Composite
+		SccLocalPath9 = Structural\u0020Design\u0020Patterns\\Composite
+		SccProjectUniqueName10 = Structural\u0020Design\u0020Patterns\\Decorator\\Decorator.csproj
+		SccProjectTopLevelParentUniqueName10 = DesignPatterns.sln
+		SccProjectName10 = Structural\u0020Design\u0020Patterns/Decorator
+		SccLocalPath10 = Structural\u0020Design\u0020Patterns\\Decorator
+	EndGlobalSection
+EndGlobal

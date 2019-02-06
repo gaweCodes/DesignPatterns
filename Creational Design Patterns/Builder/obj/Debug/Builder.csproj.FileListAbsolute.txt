@@ -1,0 +1,14 @@
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\bin\Debug\Builder.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\obj\Debug\Builder.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\obj\Debug\Builder.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\bin\Debug\Builder.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\obj\Debug\Builder.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Builder\obj\Debug\Builder.pdb

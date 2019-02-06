@@ -1,0 +1,16 @@
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\bin\Debug\RosterObjects.xml
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\RosterObjects.xml
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.pdb

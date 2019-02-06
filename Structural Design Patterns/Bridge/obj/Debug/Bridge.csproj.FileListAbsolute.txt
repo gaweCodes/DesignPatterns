@@ -1,0 +1,7 @@
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache

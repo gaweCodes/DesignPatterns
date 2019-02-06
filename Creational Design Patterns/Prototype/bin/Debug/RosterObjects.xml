@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <vacations>
+    <vacation name="half_day" paid="true">0.5</vacation>
+    <vacation name="all_day" paid="true">1</vacation>
+    <vacation name="half_day_unpaid" paid="false">0.5</vacation>
+    <vacation name="all_day_unpaid" paid="false">1</vacation>
+  </vacations>
+  <!-- Illness und Work comes here -->
+</configuration>

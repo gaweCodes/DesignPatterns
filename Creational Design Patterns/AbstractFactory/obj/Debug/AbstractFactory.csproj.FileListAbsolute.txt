@@ -1,0 +1,13 @@
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
