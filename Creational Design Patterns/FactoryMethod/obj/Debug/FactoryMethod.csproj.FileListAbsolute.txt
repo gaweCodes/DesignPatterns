@@ -11,3 +11,9 @@ C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\F
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

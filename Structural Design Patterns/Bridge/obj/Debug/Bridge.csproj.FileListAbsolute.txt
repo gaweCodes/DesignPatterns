@@ -5,3 +5,9 @@ C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Desig
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.exe
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.pdb
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Bridge\obj\Debug\Bridge.pdb

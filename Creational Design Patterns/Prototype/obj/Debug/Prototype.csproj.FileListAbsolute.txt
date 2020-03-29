@@ -14,3 +14,10 @@ C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\P
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.exe
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\RosterObjects.xml
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Creational Design Patterns\Prototype\obj\Debug\Prototype.pdb

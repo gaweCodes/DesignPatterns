@@ -5,3 +5,9 @@ C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Desig
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Decorator\obj\Debug\Decorator.exe
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Decorator\obj\Debug\Decorator.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\bin\Debug\Decorator.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\bin\Debug\Decorator.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\obj\Debug\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\obj\Debug\Decorator.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Decorator\obj\Debug\Decorator.pdb

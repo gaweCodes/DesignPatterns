@@ -4,3 +4,9 @@ C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Desig
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Composite\obj\Debug\Composite.exe
 C:\Users\gawe\Documents\GaebsterProjekte\DesignPatternsTemplate\Structural Design Patterns\Composite\obj\Debug\Composite.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\bin\Debug\Composite.exe.config
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\bin\Debug\Composite.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\bin\Debug\Composite.pdb
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\obj\Debug\Composite.exe
+C:\Users\Gabriel\source\repos\GitHub\DesignPatterns\Structural Design Patterns\Composite\obj\Debug\Composite.pdb

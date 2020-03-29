@@ -12,3 +12,9 @@ C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\S
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.exe
 C:\Users\gawe\Source\Repos\gaweCodes\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\Gabriel\Source\Repos\GitHub\DesignPatterns\Creational Design Patterns\Singleton\obj\Debug\Singleton.pdb
